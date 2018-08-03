@@ -1,0 +1,9 @@
+query"*"
+android resign Carros.apk
+start_test_server_in_background
+start_test_server_in_background
+query("*")
+saf
+query("* id:'consulta'")
+touch("* id:'consulta'")
+exit

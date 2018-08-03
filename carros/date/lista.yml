@@ -1,0 +1,42 @@
+-
+  modelo: "MONZA"
+  ano: "1977"
+  placa: "JBM-1988"
+  km: "19.000"
+  valor: "7.500"
+-
+  modelo: "HB20"
+  ano: "2007"
+  placa: "JHN-1098"
+  km: "000"
+  valor: "47.500"
+-
+  modelo: "FERRARI"
+  ano: "2009"
+  placa: "JJJ-9876"
+  km: "119.000"
+  valor: "7.500,000"
+-
+  modelo: "UNO"
+  ano: "1996"
+  placa: "JOP-0088"
+  km: "199.000"
+  valor: "5.500"
+-
+  modelo: "GOLF"
+  ano: "2007"
+  placa: "HHM-8765"
+  km: "000"
+  valor: "87.500"
+-
+  modelo: "GOL"
+  ano: "2007"
+  placa: "HHM-8765"
+  km: "000"
+  valor: "87.500"
+-
+  modelo: "SANTANA"
+  ano: "2007"
+  placa: "HHM-8765"
+  km: "000"
+  valor: "87.500"    

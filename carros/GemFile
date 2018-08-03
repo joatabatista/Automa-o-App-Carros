@@ -1,0 +1,10 @@
+source "http://rubygems.org"
+ruby "2.3.3"
+
+gem "calabash-android" "0.92"
+gem "bundler"
+gem "cucumber"
+gem "faker"
+gem "cpf_faker"
+gem "pry"
+gem 'json', '~> 2.1'
